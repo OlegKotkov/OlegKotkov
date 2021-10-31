@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### :man_technologist: I'm Oleg, IOS Developer))
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegKotkov&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **OlegKotkov/OlegKotkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

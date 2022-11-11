@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### :man_technologist: I'm Oleg, IOS Developer))
+#### :man_technologist: I'm Oleg, Web Frontend & IOS Developer))
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegKotkov&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
